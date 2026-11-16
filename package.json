@@ -1,0 +1,16 @@
+{
+  "name": "2b2dnukers",
+  "version": "1.0.0",
+  "description": "Mineflayer bot swarm that orbits a player, with an optional nuke mode",
+  "main": "orbit.js",
+  "scripts": {
+    "start": "node orbit.js",
+    "login": "node login.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "mineflayer": "^4.37.0",
+    "prismarine-auth": "^2.7.0",
+    "vec3": "^0.1.10"
+  }
+}

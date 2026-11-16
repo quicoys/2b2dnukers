@@ -1,0 +1,15 @@
+{
+  "host": "2b2d.org",
+  "port": 25565,
+  "target": "YourPlayerName",
+  "radius": 8,
+  "lapSeconds": 8,
+  "heightOffset": 1,
+  "loginStaggerMs": 5000,
+  "nuke": { "enabled": false, "command": "/bomb", "intervalMs": 5000 },
+  "authCacheDir": "./accounts",
+  "extraAuthDirs": [],
+  "tokenCacheDirs": [],
+  "excludeUuidPrefixes": [],
+  "debug": false
+}
