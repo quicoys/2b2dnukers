@@ -58,3 +58,7 @@ Orbiting is always on. Bot 0 sends `/tpa <target>` (accept it, or `/tpahere` the
 | `debug` | `false` | Verbose logging |
 
 Never commit `config.json` or your account caches — they're in `.gitignore`.
+
+## License
+
+[Apache 2.0](LICENSE)

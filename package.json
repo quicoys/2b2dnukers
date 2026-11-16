@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Mineflayer bot swarm that orbits a player, with an optional nuke mode",
   "main": "orbit.js",
+  "license": "Apache-2.0",
   "scripts": {
     "start": "node orbit.js",
     "login": "node login.js"
